@@ -3,6 +3,17 @@
 A data-driven C# learning and revision roadmap for a .NET developer.
 
 ## Structure
+- `index.html` — dashboard
+- `roadmap.html` — complete learning path
+
+## Features
+- Existing dark roadmap/dashboard visual style retained
+- Data-driven roadmap
+- Checkbox progress saved to localStorage
+- Weighted progress
+- Automatic next-topic detection
+- Direct Microsoft Learn resources
+- Responsive mobile sidebar
 
 - `index.html` — dashboard
 - `roadmap.html` — complete learning path
