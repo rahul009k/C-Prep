@@ -3,17 +3,6 @@
 A data-driven C# learning and revision roadmap for a .NET developer.
 
 ## Structure
-- `index.html` — dashboard
-- `roadmap.html` — complete learning path
-
-## Features
-- Existing dark roadmap/dashboard visual style retained
-- Data-driven roadmap
-- Checkbox progress saved to localStorage
-- Weighted progress
-- Automatic next-topic detection
-- Direct Microsoft Learn resources
-- Responsive mobile sidebar
 
 - `index.html` — dashboard
 - `roadmap.html` — complete learning path
@@ -33,3 +22,11 @@ The roadmap uses weighted progress and automatically identifies the next incompl
 **269 topics across 16 phases.**
 
 Open `index.html` directly or deploy the repository with GitHub Pages.
+
+
+## Study + practice
+
+Each topic now has:
+- a curated topic-specific Microsoft Learn study URL (instead of the generic C# landing page)
+- 3 practice questions: understanding, coding, and interview/production reasoning
+- a C# Exercism practice link for hands-on exercises. Exercism's C# track currently provides a large set of exercises and automated analysis/mentoring.
