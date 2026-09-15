@@ -23,8 +23,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Variables%20and%20data%20types%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/variables-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-002",
@@ -43,8 +45,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=var%2C%20object%20and%20dynamic%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-003",
@@ -63,8 +66,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Implicit%20and%20explicit%20conversions%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-004",
@@ -83,8 +87,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Operators%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/operators-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-005",
@@ -103,8 +109,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Nullable%20value%20types%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-006",
@@ -123,8 +130,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Nullable%20reference%20types%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/nullable-reference-types-in-csharp-8/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-007",
@@ -143,8 +152,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=const%20vs%20readonly%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/const-and-read-only-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-008",
@@ -163,8 +174,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=static%20members%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/static-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-009",
@@ -183,8 +196,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://dotnettutorials.net/lesson/strings-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/string-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-010",
@@ -203,8 +218,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=String%20immutability%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-011",
@@ -223,8 +239,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://dotnettutorials.net/lesson/arrays-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/arrays-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-012",
@@ -243,8 +261,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Multidimensional%20and%20jagged%20arrays%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/two-dimensional-array-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-013",
@@ -263,8 +283,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://dotnettutorials.net/lesson/enumerations-enum-in-csharp/",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-014",
@@ -283,8 +304,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://dotnettutorials.net/lesson/structures-in-csharp/",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-015",
@@ -303,8 +325,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=default%20and%20type%20testing%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   },
@@ -332,8 +355,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes",
-        "easyUrl": "https://dotnettutorials.net/lesson/classes-objects-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/class-and-objects-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-017",
@@ -352,8 +377,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes",
-        "easyUrl": "https://dotnettutorials.net/lesson/constructors-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/constructors-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-018",
@@ -372,8 +399,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes",
-        "easyUrl": "https://dotnettutorials.net/lesson/access-modifiers-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/access-specifiers-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-019",
@@ -392,8 +421,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Properties%20and%20backing%20fields%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-020",
@@ -412,8 +442,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=init-only%20properties%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-021",
@@ -432,8 +463,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes",
-        "easyUrl": "https://www.youtube.com/results?search_query=Encapsulation%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/encapsulation-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-022",
@@ -452,8 +485,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
-        "easyUrl": "https://dotnettutorials.net/lesson/inheritance-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/inheritance-c-sharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-023",
@@ -472,8 +507,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=virtual%20and%20override%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/function-overriding-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-024",
@@ -492,8 +529,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
-        "easyUrl": "https://www.youtube.com/results?search_query=new%20vs%20override%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/function-hiding-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-025",
@@ -512,8 +551,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
-        "easyUrl": "https://www.youtube.com/results?search_query=sealed%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/sealed-class-methods-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-026",
@@ -532,8 +573,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
-        "easyUrl": "https://dotnettutorials.net/lesson/abstract-class-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/abstract-class-abstract-methods-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-027",
@@ -552,8 +595,12 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://dotnettutorials.net/lesson/interfaces-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/interface-c-sharp/",
+        "deepUrl": null,
+        "videoUrl": "https://www.youtube.com/watch?v=RuhGv81tpoU",
+        "videoTitle": "C# interfaces — Bro Code",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-028",
@@ -572,8 +619,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explicit%20interface%20implementation%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-029",
@@ -592,8 +640,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism",
-        "easyUrl": "https://www.youtube.com/results?search_query=Overloading%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/function-overloading-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-030",
@@ -612,8 +662,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
-        "easyUrl": "https://www.youtube.com/results?search_query=Composition%20vs%20inheritance%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-031",
@@ -632,8 +683,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=SOLID%20principles%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-032",
@@ -652,8 +704,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Coupling%20and%20cohesion%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   },
@@ -681,8 +734,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Value%20types%20vs%20reference%20types%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/stack-and-heap-dotnet/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-034",
@@ -701,8 +756,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Stack%20vs%20heap%20mental%20model%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/stack-and-heap-dotnet/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-035",
@@ -721,8 +778,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Passing%20values%20and%20references%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-036",
@@ -741,8 +799,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ref%20parameters%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-037",
@@ -761,8 +820,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=out%20parameters%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-038",
@@ -781,8 +841,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=in%20parameters%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-039",
@@ -801,8 +862,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ref%20return%20and%20ref%20local%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-040",
@@ -821,8 +883,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=readonly%20struct%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/readonly-structs-in-csharp-8/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-041",
@@ -841,8 +905,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ref%20struct%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-042",
@@ -861,8 +926,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records",
-        "easyUrl": "https://www.youtube.com/results?search_query=record%20class%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-043",
@@ -881,8 +947,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records",
-        "easyUrl": "https://www.youtube.com/results?search_query=record%20struct%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-044",
@@ -901,8 +968,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes",
-        "easyUrl": "https://www.youtube.com/results?search_query=Class%20vs%20struct%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-045",
@@ -921,8 +989,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records",
-        "easyUrl": "https://www.youtube.com/results?search_query=Class%20vs%20record%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-046",
@@ -941,8 +1010,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Equals%20and%20GetHashCode%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-047",
@@ -961,8 +1031,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ReferenceEquals%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-048",
@@ -981,8 +1052,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=IEquatable%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-049",
@@ -1001,8 +1073,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Hash-based%20collections%20and%20equality%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -1030,8 +1103,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Array%20vs%20List%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/dictionary-vs-list-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-051",
@@ -1050,8 +1125,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://dotnettutorials.net/lesson/generic-list-collection-class-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/list-collection-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-052",
@@ -1070,8 +1147,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://dotnettutorials.net/lesson/generic-dictionary-collection-class-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/dictionary-generic-collection-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-053",
@@ -1090,8 +1169,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://dotnettutorials.net/lesson/hashset-collection-class-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-hashset-collection-class-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-054",
@@ -1110,8 +1191,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Queue%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-queue-collection-class-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-055",
@@ -1130,8 +1213,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Stack%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-stack-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-056",
@@ -1150,8 +1235,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=LinkedList%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-linkedlist-collection-class-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-057",
@@ -1170,8 +1257,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Sorted%20collections%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-sorteddictionary-collection-class-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-058",
@@ -1190,8 +1279,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=ReadOnly%20collections%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-059",
@@ -1210,8 +1300,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=IEnumerable%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-060",
@@ -1230,8 +1321,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=ICollection%3CT%3E%20and%20IList%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-061",
@@ -1250,8 +1342,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=IReadOnlyCollection%3CT%3E%20and%20IList%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-062",
@@ -1270,8 +1363,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Dictionary%20hashing%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-063",
@@ -1290,8 +1384,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Hash%20collisions%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-064",
@@ -1310,8 +1405,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/statements/collections",
-        "easyUrl": "https://www.youtube.com/results?search_query=Choosing%20collections%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-065",
@@ -1330,8 +1426,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Collection%20performance%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   },
@@ -1359,8 +1456,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://dotnettutorials.net/lesson/generic-classes-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generics-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-067",
@@ -1379,8 +1478,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://dotnettutorials.net/lesson/generic-methods-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generics-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-068",
@@ -1399,8 +1500,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://dotnettutorials.net/lesson/generic-interfaces-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generics-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-069",
@@ -1419,8 +1522,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=Type%20inference%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-070",
@@ -1439,8 +1543,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=Generic%20constraints%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-constraints-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-071",
@@ -1459,8 +1565,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=class%20constraint%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-072",
@@ -1479,8 +1586,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=struct%20constraint%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-073",
@@ -1499,8 +1607,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=new%28%29%20constraint%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-074",
@@ -1519,8 +1628,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=Multiple%20constraints%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-075",
@@ -1539,8 +1649,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=Covariance%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-076",
@@ -1559,8 +1670,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=Contravariance%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-077",
@@ -1579,8 +1691,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics",
-        "easyUrl": "https://www.youtube.com/results?search_query=in%20and%20out%20variance%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   },
@@ -1608,8 +1721,12 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://dotnettutorials.net/lesson/delegates-real-time-examples-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/delegates-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "videoUrl": "https://www.youtube.com/watch?v=vOlLd2SsKM4",
+        "videoTitle": "C# Delegates Explained — Simplilearn",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-079",
@@ -1628,8 +1745,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Delegate%20invocation%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/delegates-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-080",
@@ -1648,8 +1767,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Multicast%20delegates%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/multicast-delegate-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-081",
@@ -1668,8 +1789,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Action%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-delegates-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-082",
@@ -1688,8 +1811,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Func%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-delegates-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-083",
@@ -1708,8 +1833,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Predicate%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/generic-delegates-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-084",
@@ -1728,8 +1855,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Anonymous%20methods%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/anonymous-method-c-sharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-085",
@@ -1748,8 +1877,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://dotnettutorials.net/lesson/lambda-expression-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/lambda-expression-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-086",
@@ -1768,8 +1899,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Closures%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-087",
@@ -1788,8 +1920,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Closure%20pitfalls%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-088",
@@ -1809,7 +1942,9 @@ window.ROADMAP=[
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
         "easyUrl": "https://dotnettutorials.net/lesson/events-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-089",
@@ -1828,8 +1963,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Custom%20event%20accessors%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-090",
@@ -1848,8 +1984,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Delegate%20vs%20event%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/events-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       }
     ]
   },
@@ -1877,8 +2015,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Where%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-092",
@@ -1897,8 +2036,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Select%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-093",
@@ -1917,8 +2057,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=SelectMany%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-094",
@@ -1937,8 +2078,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=OrderBy%20and%20ThenBy%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-095",
@@ -1957,8 +2099,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=GroupBy%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-096",
@@ -1977,8 +2120,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Join%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-097",
@@ -1997,8 +2141,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=GroupJoin%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-098",
@@ -2017,8 +2162,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Any%20and%20All%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-099",
@@ -2037,8 +2183,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Contains%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-100",
@@ -2057,8 +2204,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=First%20and%20FirstOrDefault%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-101",
@@ -2077,8 +2225,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Single%20and%20SingleOrDefault%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-102",
@@ -2097,8 +2246,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Last%20and%20LastOrDefault%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-103",
@@ -2117,8 +2267,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Skip%20and%20Take%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-104",
@@ -2137,8 +2288,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Distinct%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-105",
@@ -2157,8 +2309,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Set%20operators%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-106",
@@ -2177,8 +2330,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Aggregate%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-107",
@@ -2197,8 +2351,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Count%2C%20Sum%2C%20Average%2C%20Min%2C%20Max%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-108",
@@ -2217,8 +2372,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Deferred%20execution%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-109",
@@ -2237,8 +2393,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Immediate%20execution%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-110",
@@ -2257,8 +2414,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Multiple%20enumeration%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-111",
@@ -2277,8 +2435,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=IEnumerable%20vs%20IQueryable%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-112",
@@ -2297,8 +2456,11 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Expression%20trees%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "videoUrl": "https://www.youtube.com/watch?v=dwr40KytyaY",
+        "videoTitle": "C# Expression Trees Explained — Raw Coding",
+        "easyVerified": false
       },
       {
         "id": "csharp-113",
@@ -2317,8 +2479,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=LINQ%20performance%20pitfalls%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -2346,8 +2509,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://dotnettutorials.net/lesson/exception-handling-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/exception-handling-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-115",
@@ -2366,8 +2531,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://dotnettutorials.net/lesson/exception-handling-in-csharp/",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/exception-handling-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-116",
@@ -2386,8 +2553,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Multiple%20catch%20blocks%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/multiple-catch-blocks-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-117",
@@ -2406,8 +2575,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Exception%20filters%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-118",
@@ -2426,8 +2596,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=throw%20vs%20throw%20ex%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-119",
@@ -2446,8 +2617,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=InnerException%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/inner-exception-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-120",
@@ -2466,8 +2639,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Custom%20exceptions%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/create-custom-exception-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-121",
@@ -2486,8 +2661,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=When%20not%20to%20use%20exceptions%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-122",
@@ -2506,8 +2682,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://dotnettutorials.net/lesson/idisposable-interface-in-csharp/",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-123",
@@ -2526,8 +2703,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://dotnettutorials.net/lesson/using-statement-in-csharp/",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-124",
@@ -2546,8 +2724,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://www.youtube.com/results?search_query=using%20declaration%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-125",
@@ -2566,8 +2745,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=IAsyncDisposable%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/asynchronous-disposable-in-csharp-8/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-126",
@@ -2586,8 +2767,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=await%20using%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-127",
@@ -2606,8 +2788,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://www.youtube.com/results?search_query=Finalizers%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-128",
@@ -2626,8 +2809,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://www.youtube.com/results?search_query=Managed%20vs%20unmanaged%20resources%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   },
@@ -2655,8 +2839,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Synchronous%20vs%20asynchronous%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-130",
@@ -2675,8 +2860,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://dotnettutorials.net/lesson/task-class-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/task-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-131",
@@ -2695,8 +2882,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://dotnettutorials.net/lesson/task-class-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/return-a-value-from-a-task-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-132",
@@ -2715,8 +2904,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=async%20keyword%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/async-and-await-operator-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-133",
@@ -2735,8 +2926,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=await%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/async-and-await-operator-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-134",
@@ -2755,8 +2948,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=How%20async/await%20works%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-135",
@@ -2775,8 +2969,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Task.Run%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-136",
@@ -2795,8 +2990,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=CPU-bound%20vs%20I/O-bound%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-137",
@@ -2816,7 +3012,9 @@ window.ROADMAP=[
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
         "easyUrl": "https://dotnettutorials.net/lesson/how-to-execute-multiple-tasks-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-138",
@@ -2835,8 +3033,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Task.WhenAny%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-139",
@@ -2855,8 +3054,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://dotnettutorials.net/lesson/how-to-cancel-a-task-in-c-using-cancellation-token/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/how-to-cancel-a-task-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-140",
@@ -2875,8 +3076,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=CancellationTokenSource%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-141",
@@ -2895,8 +3097,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Async%20exception%20handling%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-142",
@@ -2915,8 +3118,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://dotnettutorials.net/lesson/asynchronous-streams-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/asynchronous-streams-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-143",
@@ -2935,8 +3140,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=await%20foreach%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-144",
@@ -2955,8 +3161,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ConfigureAwait%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-145",
@@ -2975,8 +3182,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=SynchronizationContext%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-146",
@@ -2995,8 +3203,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Deadlocks%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-147",
@@ -3015,8 +3224,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-threadpool-starvation",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-148",
@@ -3035,8 +3245,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Fire-and-forget%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-149",
@@ -3055,8 +3266,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Result%20and%20Wait%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -3084,8 +3296,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Process%20memory%20basics%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-151",
@@ -3104,8 +3317,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Stack%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-152",
@@ -3124,8 +3338,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Heap%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-153",
@@ -3144,8 +3359,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Object%20allocation%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-154",
@@ -3164,8 +3380,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Garbage%20Collector%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/garbage-collector/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-155",
@@ -3184,8 +3402,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=GC%20generations%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-156",
@@ -3204,8 +3423,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=GC%20roots%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-157",
@@ -3224,8 +3444,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Object%20lifetime%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-158",
@@ -3244,8 +3465,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/large-object-heap",
-        "easyUrl": "https://www.youtube.com/results?search_query=Large%20Object%20Heap%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-159",
@@ -3264,8 +3486,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Finalization%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-160",
@@ -3284,8 +3507,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=WeakReference%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-161",
@@ -3304,8 +3528,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Managed%20memory%20leaks%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-162",
@@ -3324,8 +3549,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Boxing%20allocations%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-163",
@@ -3344,8 +3570,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=String%20allocations%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-164",
@@ -3364,8 +3591,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Collection%20allocations%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-165",
@@ -3384,8 +3612,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Allocation%20pressure%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-166",
@@ -3404,8 +3633,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Span%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-167",
@@ -3424,8 +3654,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ReadOnlySpan%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-168",
@@ -3444,8 +3675,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Memory%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-169",
@@ -3464,8 +3696,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ReadOnlyMemory%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-170",
@@ -3484,8 +3717,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=stackalloc%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/stackalloc-in-nested-expressions-in-csharp-8/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-171",
@@ -3504,8 +3739,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1",
-        "easyUrl": "https://www.youtube.com/results?search_query=ArrayPool%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-172",
@@ -3524,8 +3760,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=MemoryPool%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-173",
@@ -3544,8 +3781,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ref%20struct%20restrictions%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-174",
@@ -3564,8 +3802,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Memory%20performance%20measurement%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -3593,8 +3832,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Expression-bodied%20members%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/expression-bodied-members-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-176",
@@ -3613,8 +3854,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Null-coalescing%20operators%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-177",
@@ -3633,8 +3875,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Null-conditional%20operators%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-178",
@@ -3653,8 +3896,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns",
-        "easyUrl": "https://www.youtube.com/results?search_query=Pattern%20matching%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/pattern-matching-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-179",
@@ -3673,8 +3918,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Switch%20expressions%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-180",
@@ -3693,8 +3939,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns",
-        "easyUrl": "https://www.youtube.com/results?search_query=Property%20patterns%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-181",
@@ -3713,8 +3960,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns",
-        "easyUrl": "https://www.youtube.com/results?search_query=Relational%20patterns%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-182",
@@ -3733,8 +3981,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/patterns",
-        "easyUrl": "https://www.youtube.com/results?search_query=Tuple%20patterns%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-183",
@@ -3753,8 +4002,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records",
-        "easyUrl": "https://www.youtube.com/results?search_query=Records%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-184",
@@ -3773,8 +4023,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=init%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-185",
@@ -3793,8 +4044,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=required%20members%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-186",
@@ -3813,8 +4065,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Primary%20constructors%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-187",
@@ -3833,8 +4086,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Collection%20expressions%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-188",
@@ -3853,8 +4107,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Target-typed%20new%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-189",
@@ -3873,8 +4128,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=File-scoped%20namespaces%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-190",
@@ -3893,8 +4149,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://www.youtube.com/results?search_query=Global%20using%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-191",
@@ -3913,8 +4170,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Top-level%20statements%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-192",
@@ -3933,8 +4191,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Raw%20string%20literals%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-193",
@@ -3953,8 +4212,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/",
-        "easyUrl": "https://www.youtube.com/results?search_query=with%20expressions%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -3982,8 +4242,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators",
-        "easyUrl": "https://www.youtube.com/results?search_query=yield%20return%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-195",
@@ -4002,8 +4263,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators",
-        "easyUrl": "https://www.youtube.com/results?search_query=yield%20break%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-196",
@@ -4022,8 +4284,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators",
-        "easyUrl": "https://www.youtube.com/results?search_query=IEnumerator%3CT%3E%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-197",
@@ -4042,8 +4305,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators",
-        "easyUrl": "https://www.youtube.com/results?search_query=Iterator%20state%20machines%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-198",
@@ -4062,8 +4326,11 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Expression%20trees%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "videoUrl": "https://www.youtube.com/watch?v=dwr40KytyaY",
+        "videoTitle": "C# Expression Trees Explained — Raw Coding",
+        "easyVerified": false
       },
       {
         "id": "csharp-199",
@@ -4082,8 +4349,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Expression%20vs%20delegate%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-200",
@@ -4102,8 +4370,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Attributes%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-201",
@@ -4122,8 +4391,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Custom%20attributes%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-202",
@@ -4142,8 +4412,12 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Reflection%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/reflection-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "videoUrl": "https://www.youtube.com/watch?v=i7WcFVn2LDo",
+        "videoTitle": "C# Reflection Explained — Simplilearn",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-203",
@@ -4162,8 +4436,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=typeof%20and%20GetType%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-204",
@@ -4182,8 +4457,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Activator%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-205",
@@ -4202,8 +4478,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Runtime%20type%20inspection%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-206",
@@ -4222,8 +4499,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Dynamic%20invocation%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -4251,8 +4529,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Process%20vs%20thread%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-208",
@@ -4271,8 +4550,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ThreadPool%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-209",
@@ -4291,8 +4571,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Task%20vs%20Thread%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-210",
@@ -4311,8 +4592,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://dotnettutorials.net/lesson/atomic-methods-thread-safety-and-race-conditions-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-211",
@@ -4331,8 +4613,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Critical%20sections%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-212",
@@ -4351,8 +4634,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=lock%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-213",
@@ -4371,8 +4655,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Monitor%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-214",
@@ -4391,8 +4676,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=SemaphoreSlim%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-215",
@@ -4411,8 +4697,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Mutex%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-216",
@@ -4431,8 +4718,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://dotnettutorials.net/lesson/interlocked-vs-lock-in-csharp/",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-217",
@@ -4451,8 +4739,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=volatile%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": "https://dotnettutorials.net/lesson/volatile-keyword-in-csharp/",
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-218",
@@ -4471,8 +4761,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/collections/thread-safe/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ConcurrentDictionary%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-219",
@@ -4491,8 +4782,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/collections/thread-safe/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ConcurrentQueue%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-220",
@@ -4511,8 +4803,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/collections/thread-safe/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ConcurrentBag%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-221",
@@ -4531,8 +4824,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Deadlocks%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-222",
@@ -4551,8 +4845,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Lock%20contention%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -4580,8 +4875,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Big-O%20basics%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-224",
@@ -4600,8 +4896,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Allocation%20analysis%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-225",
@@ -4620,8 +4917,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=GC%20pressure%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-226",
@@ -4640,8 +4938,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=LINQ%20performance%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-227",
@@ -4660,8 +4959,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Collection%20selection%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-228",
@@ -4680,8 +4980,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=String%20performance%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-229",
@@ -4700,8 +5001,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Struct%20vs%20class%20performance%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-230",
@@ -4720,8 +5022,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Span%20performance%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-231",
@@ -4740,8 +5043,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/api/system.buffers.arraypool-1",
-        "easyUrl": "https://www.youtube.com/results?search_query=ArrayPool%20performance%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-232",
@@ -4760,8 +5064,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Async%20performance%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-233",
@@ -4780,8 +5085,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/debug-threadpool-starvation",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-234",
@@ -4800,8 +5106,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=BenchmarkDotNet%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-235",
@@ -4820,8 +5127,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Profiling%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-236",
@@ -4840,8 +5148,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Immutability%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-237",
@@ -4860,8 +5169,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Defensive%20copying%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-238",
@@ -4880,8 +5190,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Thread-safe%20service%20design%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-239",
@@ -4900,8 +5211,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Cancellation-aware%20APIs%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       },
       {
         "id": "csharp-240",
@@ -4920,8 +5232,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Async-first%20APIs%20C%23",
-        "deepUrl": "https://csharpindepth.com/contents"
+        "easyUrl": null,
+        "deepUrl": "https://csharpindepth.com/contents",
+        "easyVerified": false
       }
     ]
   },
@@ -4949,8 +5262,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Interface%20design%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/interface-c-sharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-242",
@@ -4969,8 +5284,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Dependency-injection-friendly%20design%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-243",
@@ -4989,8 +5305,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=DTOs%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-244",
@@ -5009,8 +5326,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Entities%20vs%20value%20objects%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-245",
@@ -5029,8 +5347,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records",
-        "easyUrl": "https://www.youtube.com/results?search_query=Records%20for%20DTOs%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-246",
@@ -5049,8 +5368,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Error%20handling%20strategy%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-247",
@@ -5069,8 +5389,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop",
-        "easyUrl": "https://www.youtube.com/results?search_query=Null%20handling%20strategy%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-248",
@@ -5089,8 +5410,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Cancellation%20across%20layers%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-249",
@@ -5109,8 +5431,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Async%20database/service%20calls%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-250",
@@ -5129,8 +5452,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Logging-friendly%20exceptions%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   },
@@ -5158,8 +5482,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20value%20vs%20reference%20types%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-252",
@@ -5178,8 +5503,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20boxing%20and%20unboxing%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-253",
@@ -5198,8 +5524,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20IEnumerable%20vs%20IQueryable%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-254",
@@ -5218,8 +5545,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=FirstOrDefault%20vs%20SingleOrDefault%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-255",
@@ -5238,8 +5566,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/linq/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20deferred%20execution%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-256",
@@ -5258,8 +5587,11 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20async/await%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "videoUrl": "https://www.youtube.com/watch?v=3GhKdDCvtKE",
+        "videoTitle": "How to use Async/Await/Task in C# — Raw Coding",
+        "easyVerified": false
       },
       {
         "id": "csharp-257",
@@ -5278,8 +5610,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Task.Run%20in%20ASP.NET%20Core%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-258",
@@ -5298,8 +5631,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20GC%20generations%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-259",
@@ -5318,8 +5652,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/memory-and-spans/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Explain%20Span%3CT%3E%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-260",
@@ -5338,8 +5673,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/records",
-        "easyUrl": "https://www.youtube.com/results?search_query=Class%20vs%20struct%20vs%20record%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-261",
@@ -5358,8 +5694,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/inheritance",
-        "easyUrl": "https://www.youtube.com/results?search_query=Abstract%20class%20vs%20interface%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-262",
@@ -5378,8 +5715,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=virtual%20vs%20override%20vs%20new%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-263",
@@ -5398,8 +5736,10 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/delegates-lambdas",
-        "easyUrl": "https://www.youtube.com/results?search_query=Delegate%20vs%20event%20C%23",
-        "deepUrl": null
+        "easyUrl": "https://dotnettutorials.net/lesson/events-in-csharp/",
+        "deepUrl": null,
+        "easyVerified": true,
+        "easySource": "Dot Net Tutorials"
       },
       {
         "id": "csharp-264",
@@ -5418,8 +5758,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ref%20vs%20out%20vs%20in%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-265",
@@ -5438,8 +5779,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/",
-        "easyUrl": "https://www.youtube.com/results?search_query=throw%20vs%20throw%20ex%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-266",
@@ -5458,8 +5800,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose",
-        "easyUrl": "https://www.youtube.com/results?search_query=IDisposable%20vs%20finalizer%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-267",
@@ -5478,8 +5821,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/standard/threading/",
-        "easyUrl": "https://www.youtube.com/results?search_query=Deadlock%20scenario%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-268",
@@ -5498,8 +5842,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/",
-        "easyUrl": "https://www.youtube.com/results?search_query=ThreadPool%20starvation%20scenario%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       },
       {
         "id": "csharp-269",
@@ -5518,8 +5863,9 @@ window.ROADMAP=[
         ],
         "practiceUrl": "https://exercism.org/tracks/csharp",
         "officialUrl": "https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/",
-        "easyUrl": "https://www.youtube.com/results?search_query=C%23%20code-review%20exercise%20C%23",
-        "deepUrl": null
+        "easyUrl": null,
+        "deepUrl": null,
+        "easyVerified": false
       }
     ]
   }

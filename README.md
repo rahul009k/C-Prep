@@ -30,3 +30,9 @@ Each topic now has:
 - a curated topic-specific Microsoft Learn study URL (instead of the generic C# landing page)
 - 3 practice questions: understanding, coding, and interview/production reasoning
 - a C# Exercism practice link for hands-on exercises. Exercism's C# track currently provides a large set of exercises and automated analysis/mentoring.
+
+
+## Resource rule
+- Primary learning links are reading sites, not YouTube.
+- YouTube is shown separately only when an exact-topic video is available and useful.
+- No YouTube search-result URLs are used.
