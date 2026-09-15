@@ -3,7 +3,6 @@
 A lightweight static C# revision tracker built with plain HTML, CSS and JavaScript.
 
 ## Features
-- ChatGPT-style left sidebar
 - Existing dark roadmap/dashboard visual style retained
 - Data-driven roadmap
 - Checkbox progress saved to localStorage
